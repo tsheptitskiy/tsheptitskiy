@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Taras
-- 👀 I’m interested in Java and all related stuff
-- 🌱 I’m currently learning Java Core and Spring Boot.
+- 👀 I’m interested in programming and all related stuff
+- 🌱 I'm currently learning Ruby. Also I used to write code on Java.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me: 
 email -  tsheptitskiy@gmail.com
