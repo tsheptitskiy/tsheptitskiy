@@ -6,7 +6,7 @@
  👀 Experienced in building and managing CI/CD pipelines with GitHub Actions, Jenkins, and AWS
  🧑‍🎓 Dedicated to learning new technologies
  🧑‍🏫 Passionate about educating and empowering others
- 📫 How to reach me: 
+ 📫 **How to reach me?**
 **email:**  tsheptitskiy@gmail.com
 
 <!---
