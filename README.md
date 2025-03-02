@@ -20,7 +20,7 @@
 ---
 
 ## 📫 Connect with Me  
-💼 **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/tsheptytskyi/)  
+💼 **LinkedIn:** [Taras Sheptytskyi](https://www.linkedin.com/in/tsheptytskyi/)  
 ✉️ **Email:** [tsheptitskiy@gmail.com](mailto:tsheptitskiy@gmail.com)  
 🌐 **Portfolio/Blog:** coming soon... 
 
